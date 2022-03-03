@@ -5,5 +5,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca-G17&show_icons=true)\
 \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca-G17&layout=compact&exclude_repo=Luca-G17,Luca-G17.github.io,seihou-catalogue,cloud-docs,audio-visualiser)](https://github.com/anuraghazra/github-readme-stats)
-
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Luca-G17" frameborder="0"></iframe>
+<iframe src="https://ionicabizau.github.io/github-profile-languages/api.html?Luca-G17" width="600" height="600" frameborder="0"></iframe>
