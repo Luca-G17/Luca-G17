@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luca-G17, I'm studying for my Computer Science Bsc at the University of Bristol
+- 👋 Hi, I’m @Luca-G17, I'm studying for my Computer Science BSc at the University of Bristol
 - 🌱 I’m currently learning C, Haskell and Java
 - 📫 How to reach me lucagough7@gmail.com
 
