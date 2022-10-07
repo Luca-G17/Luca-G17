@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luca-G17, I'm studying for my Computer Science BSc at the University of Bristol
-- 🌱 I’m currently learning C, Haskell and Java
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me lucagough7@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca-G17&show_icons=true)\
